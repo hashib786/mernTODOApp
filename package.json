@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hashib786/mernTODOApp/issues"
   },
-  "homepage": "https://github.com/hashib786/mernTODOApp#readme"
+  "homepage": "https://github.com/hashib786/mernTODOApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
